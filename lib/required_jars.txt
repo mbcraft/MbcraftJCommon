@@ -1,0 +1,53 @@
+.:
+total 28
+drwxrwxr-x  7 marco marco 4096 mag 19  2016 .
+drwxrwxr-x 11 marco marco 4096 gen 13 18:44 ..
+drwxrwxr-x  2 marco marco 4096 mag 19  2016 commons
+drwxrwxr-x  2 marco marco 4096 mag 19  2016 http
+drwxrwxr-x  2 marco marco 4096 giu  8  2016 junit_4
+drwxrwxr-x  2 marco marco 4096 mag 19  2016 logging
+drwxrwxr-x  2 marco marco 4096 lug  7  2016 net
+
+./commons:
+total 332
+drwxrwxr-x 2 marco marco   4096 mag 19  2016 .
+drwxrwxr-x 7 marco marco   4096 mag 19  2016 ..
+-rw-rw-r-- 1 marco marco 263965 mag  1  2015 commons-codec-1.9.jar
+-rw-rw-r-- 1 marco marco  61829 mag  1  2015 commons-logging-1.2.jar
+
+./http:
+total 3832
+drwxrwxr-x 2 marco marco    4096 mag 19  2016 .
+drwxrwxr-x 7 marco marco    4096 mag 19  2016 ..
+-rw-rw-r-- 1 marco marco   31295 set 11  2015 fluent-hc-4.5.1.jar
+-rw-rw-r-- 1 marco marco  176931 apr 16  2015 httpasyncclient-4.1.jar
+-rw-rw-r-- 1 marco marco   34947 apr 16  2015 httpasyncclient-cache-4.1.jar
+-rw-rw-r-- 1 marco marco  732765 set 11  2015 httpclient-4.5.1.jar
+-rw-rw-r-- 1 marco marco  158982 set 11  2015 httpclient-cache-4.5.1.jar
+-rw-rw-r-- 1 marco marco   17369 set 11  2015 httpclient-win-4.5.1.jar
+-rw-rw-r-- 1 marco marco  326594 set  4  2015 httpcore-4.4.3.jar
+-rw-rw-r-- 1 marco marco   40698 set 11  2015 httpmime-4.5.1.jar
+-rw-rw-r-- 1 marco marco  914597 mag  1  2015 jna-4.1.0.jar
+-rw-rw-r-- 1 marco marco 1464423 mag  1  2015 jna-platform-4.1.0.jar
+
+./junit_4:
+total 256
+drwxrwxr-x 2 marco marco   4096 giu  8  2016 .
+drwxrwxr-x 7 marco marco   4096 mag 19  2016 ..
+-rw-rw-r-- 1 marco marco 253160 set  3  2015 junit-4.10.jar
+
+./logging:
+total 1336
+drwxrwxr-x 2 marco marco    4096 mag 19  2016 .
+drwxrwxr-x 7 marco marco    4096 mag 19  2016 ..
+-rw-rw-r-- 1 marco marco  146761 dic  6  2015 log4j-api-2.5.jar
+-rw-rw-r-- 1 marco marco 1106090 dic  6  2015 log4j-core-2.5.jar
+-rw-rw-r-- 1 marco marco   32535 dic  6  2015 log4j-iostreams-2.5.jar
+-rw-r--r-- 1 marco marco   22935 dic  6  2015 log4j-slf4j-impl-2.5.jar
+-rw-r--r-- 1 marco marco   41071 apr  4  2016 slf4j-api-1.7.21.jar
+
+./net:
+total 76
+drwxrwxr-x 2 marco marco  4096 lug  7  2016 .
+drwxrwxr-x 7 marco marco  4096 mag 19  2016 ..
+-rw-r--r-- 1 marco marco 68938 giu 26  2012 ftp4j-1.7.2.jar
